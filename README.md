@@ -11,7 +11,7 @@
 <!-- 头像 -->
 <div align="center">
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
-<img  src="./asset/头像.jpg" align="center" height="200" width="200" />
+<img  src="https://github.com/binhanchen25-arch/binhanchen25-arch.github.io/blob/main/asset/%E5%A4%B4%E5%83%8F.jpg" align="center" height="200" width="200" />
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
