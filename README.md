@@ -15,7 +15,7 @@
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
-<!-- 个人介绍 -->
+<!-- 个人介绍 
 ### <div align="center">✨我是陈彬晗✨</div> 
 <br/>  
 <div align="center">🏫 本科就读于天津大学软件工程学院🏫  </div> 
@@ -25,7 +25,7 @@
 <div align="center">🌱目前研究方向为软件工程领域的大模型许可证合规。🌱</div>
 <br/>  
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
-
+-->
 <br/>  
 <div align="center">对大模型agent方面感兴趣，有java后端开发经验，对前端中的d3.js感兴趣</div>  
 <br/>  
