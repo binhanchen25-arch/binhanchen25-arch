@@ -46,7 +46,7 @@
   <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
   <img align="center" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
 </p>
-⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.46 %
+⏳ Year progress { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁ }50.46 %
 <!-- 技能表 -->
 
 ## My Skill Set  
