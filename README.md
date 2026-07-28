@@ -120,6 +120,8 @@
      <td>
       <img width="150" src="https://img.shields.io/github/forks/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
     </td>
+       </tr>
+  <tr>
      <td><a href="https://github.com/binhanchen25-arch/agent-cli" target="_blank">🔥Mycli</a></td>
     <td>终端原生 AI 助手 Agent SDK</td>
     <td>
