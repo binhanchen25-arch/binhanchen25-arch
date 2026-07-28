@@ -112,7 +112,7 @@
     </td>
   </tr>
    <tr>
-    <td><a href="https://github.com/1321928757/chatgpt-data-ddd" target="_blank">🔥bilivideo</a></td>
+    <td><a href="https://github.com/binhanchen25-arch/bilivideo" target="_blank">🔥bilivideo</a></td>
     <td>一个仿照bilibili设计的基于springboot后端应用，使用fastdfs、redis完成文件上传下载、秒传等功能，使用rocketmq、redis完成用户动态提醒，使用jwt实现用户认证，搭配mysql实现权限控制，使用websocket 完成弹幕实时推送功能</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
